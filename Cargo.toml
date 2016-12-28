@@ -1,0 +1,7 @@
+[package]
+name = "recents"
+version = "0.1.0"
+authors = ["Andrew McHarg <amcharg@gmail.com>"]
+
+[dependencies]
+chrono = "0.2"
